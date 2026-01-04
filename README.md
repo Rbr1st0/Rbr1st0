@@ -1,5 +1,8 @@
-## Hi there 👋
+Hi, I’m Robin. I am an MSc Computer Science graduate with a strong interest in AI and machine learning, particularly in their application to cognitive science and research-led problem solving. My work focuses on building practical tools for data analysis, automation and reproducibility using Python and related technologies.
 
+My MSc project addressed a data variability problem in neurocognitive signals, exploring how machine learning models can be used to extract structure and meaning from noisy, high-dimensional data. 
+
+I enjoy designing solutions that make life easier for users and teams, and I’m especially interested in DevOps, full‑stack engineering and cognitive science applications.
 <!--
 **Rbr1st0/Rbr1st0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
