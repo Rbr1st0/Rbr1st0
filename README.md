@@ -3,6 +3,9 @@ Hi, I’m Robin. I am an MSc Computer Science graduate with a strong interest in
 My MSc project addressed a data variability problem in neurocognitive signals, exploring how machine learning models can be used to extract structure and meaning from noisy, high-dimensional data. 
 
 I enjoy designing solutions that make life easier for users and teams, and I’m especially interested in DevOps, full‑stack engineering and cognitive science applications.
+
+www.linkedin.com/in/robin-bristow-a48148250
+
 <!--
 **Rbr1st0/Rbr1st0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
